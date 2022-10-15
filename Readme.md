@@ -6,7 +6,8 @@ Time series anomaly detection has been widely studied recent years. Deep methods
 ![avatar](https://github.com/DAMO-DI-ML/CIKM22-TFAD/blob/main/img_folder/TFAD.png)
 
 ## Main Results
-
+![avatar](https://github.com/DAMO-DI-ML/CIKM22-TFAD/blob/main/img_folder/results.png)
+![avatar](https://github.com/DAMO-DI-ML/CIKM22-TFAD/blob/main/img_folder/ablation_study.png)
 ## Get Started 
 This model follows the code of NCAD (adding_ncad_to_nursery branch in https://github.com/Francois-Aubet/gluon-ts.git )
 
