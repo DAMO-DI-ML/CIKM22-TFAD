@@ -16,8 +16,8 @@ This model follows the code of NCAD (adding_ncad_to_nursery branch in https://gi
 ```
 git clone -b adding_ncad_to_nursery https://github.com/Francois-Aubet/gluon-ts.git
 ```
-2、Replace /ncad/examples folder with our /TFAD/examples folder;
-3、Replace /ncad/src/ncad folder with our /TFAD/src/ncad folder;
+2、Replace /ncad/examples folder with our /TFAD/examples folder;     
+3、Replace /ncad/src/ncad folder with our /TFAD/src/ncad folder;      
 4、
 ```
 pip install -e gluon-ts/src/gluonts/nursery/ncad
