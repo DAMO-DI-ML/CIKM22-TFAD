@@ -3,7 +3,7 @@
 Time series anomaly detection has been widely studied recent years. Deep methods achieves success in many multi-variate time series scenarios. However, we know few about why these sophisticated and complex deep methods work well and thus it is usually hard to apply in reality. What’s more, deep methods rely on vast amounts of data which limits its application. Time series decomposition, data augmentation and frequency analysis are widely used in time series analysis while the combination with neural network are not fully considered. In this paper, we activate classical time series analysis techniques with a simple TCN representation network under the window-based framework. The design of our decomposition time series Anomaly Detection architecture with Time-Freq Analysis (TFAD) is concise and the SOTA performance of TFAD is impressive.
 
 ## TFAD model architecture
-![avatar](https://github.com/DAMO-DI-ML/CIKM22-TFAD/blob/main/img_folder/TFAD.png)
+![avatar](https://github.com/DAMO-DI-ML/CIKM22-TFAD/blob/main/img_folder/TFAD-Art.png)
 
 ## Main Results
 ![avatar](https://github.com/DAMO-DI-ML/CIKM22-TFAD/blob/main/img_folder/results.png)
