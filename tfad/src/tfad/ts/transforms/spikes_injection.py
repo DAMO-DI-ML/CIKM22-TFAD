@@ -16,10 +16,10 @@ from typing import List, Optional, Tuple, Union
 import numpy as np
 from scipy.ndimage.filters import gaussian_filter
 
-from ncad.ts import TimeSeries
-from ncad.ts import transforms as tr
-from ncad.ts.transforms import TimeSeriesTransform
-from ncad.ts.transforms.base import get_magnitude
+from tfad.ts import TimeSeries
+from tfad.ts import transforms as tr
+from tfad.ts.transforms import TimeSeriesTransform
+from tfad.ts.transforms.base import get_magnitude
 
 RangeFloat = Tuple[float, float]
 RangeInt = Tuple[int, Union[int, None]]
