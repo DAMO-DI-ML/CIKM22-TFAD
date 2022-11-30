@@ -17,7 +17,7 @@ import numpy as np
 
 import sklearn
 
-from ncad.ts import TimeSeries, TimeSeriesDataset
+from tfad.ts import TimeSeries, TimeSeriesDataset
 
 
 class TimeSeriesTransform(object):
