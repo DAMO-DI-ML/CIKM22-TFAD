@@ -22,7 +22,7 @@ from tfad.utils import rm_file_or_dir
 
 
 def download(
-    data_dir: Union[str, PosixPath] = "~/ncad_datasets",
+    data_dir: Union[str, PosixPath] = "~/tfad_datasets",
     benchmarks: Union[str, List[str]] = ["kpi", "nasa", "smd", "swat", "yahoo"],
     swat_path: Union[str, PosixPath] = None,
     yahoo_path: Union[str, PosixPath] = None,
