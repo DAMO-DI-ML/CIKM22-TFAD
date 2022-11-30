@@ -19,7 +19,7 @@ import torch
 
 from pytorch_lightning.utilities.parsing import str_to_bool
 
-from ncad.utils import save_args
+from tfad.utils import save_args
 
 
 def get_general_parser():
